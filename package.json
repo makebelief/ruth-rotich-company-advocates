@@ -1,0 +1,7 @@
+{
+  "name": "ruth-rotich-company-advocates",
+  "private": true,
+  "scripts": {
+    "check": "node check.mjs"
+  }
+}
